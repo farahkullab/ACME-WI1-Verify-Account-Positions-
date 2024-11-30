@@ -1,0 +1,13 @@
+﻿{
+  "Name": "ACME System 3(3)",
+  "Type": "Screen",
+  "Id": "wGGx_i-Ex0CvkBNhPgSrGw",
+  "Reference": "_kELrHrFyEyfYm07Z5YWIA/wGGx_i-Ex0CvkBNhPgSrGw",
+  "ParentRef": "_kELrHrFyEyfYm07Z5YWIA/kXd0A-cBe0mQLI7RBRc-8w",
+  "Created": "2024-11-16T06:49:04.5118184Z",
+  "Updated": "2024-11-16T06:49:04.5118184Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nocXhjvD5keiBXgwvT0rzA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/104064090" DesignTimeRectangle="290, 652, 532, 114" DesignTimeScaleFactor="1.4249999523162842" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='DIV' visibleinnertext='Account Information Details&amp;#xA;&amp;#xA;Client ID: *&amp;#xA;Account Number: *&amp;#xA;Account Amount: * RON&amp;#xA;&amp;#xA;' /&gt;&lt;webctrl tag='P' /&gt;" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl tag='DIV' visibleinnertext='Account Information Details&amp;#xA;&amp;#xA;Client ID: *&amp;#xA;Account Number: *&amp;#xA;Account Amount: * RON&amp;#xA;&amp;#xA;' /&gt;&lt;webctrl tag='P' type='' class='' aaname='                          FT44139                          316347                          688366 RON                                              ' /&gt;" Guid="6ca48c12-9959-47bc-bd05-14ae3903b410" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c4429df66cca9fc44eb57b8fe51e4ddf.png" xmlns="">0BnjwDERszUmF-CaYBZ74uw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

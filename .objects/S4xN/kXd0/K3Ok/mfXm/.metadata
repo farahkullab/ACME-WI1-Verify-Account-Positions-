@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Search For Client By Na…(1)",
+  "Type": "Element",
+  "Id": "mfXm8tjFQkyE2e6j2o2qiQ",
+  "Reference": "_kELrHrFyEyfYm07Z5YWIA/mfXm8tjFQkyE2e6j2o2qiQ",
+  "ParentRef": "_kELrHrFyEyfYm07Z5YWIA/K3OkOY6zh0GnP6Z2t37YGg",
+  "Created": "2024-11-17T06:10:33.2898174Z",
+  "Updated": "2024-11-17T06:10:33.2898174Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

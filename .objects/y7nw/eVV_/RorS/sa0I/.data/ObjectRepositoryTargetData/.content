@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GbO6I0Y_GkuTi9GZ-BqaqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items" CVScreenId="a02e6cbb-e8ee-4fc5-be45-f6d8f52befbf" DesignTimeRectangle="300, 736, 33, 30" DesignTimeScaleFactor="1.4249999523162842" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl href='https://acme-test.uipath.com/work-items/103652154' tag='A' /&gt;&lt;webctrl tableRow='3' tag='BUTTON' /&gt;" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl href='https://acme-test.uipath.com/work-items/103652154' tag='A' /&gt;&lt;webctrl type='button' tag='BUTTON' class='btn btn-default btn-xs' aaname='' /&gt;" Guid="156058b1-ac59-4eba-af64-aa146e5e63bb" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a02e6cbb-e8ee-4fc5-be45-f6d8f52befbf" DesignTimeRectangle="247, 616, 176, 53" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tableRow='1' tag='TH' aaname='Actions' /&gt;" Guid="e5ec77b0-8ffd-4aee-848d-17022f4b3bf2" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="854a8847db1bc5af2741a5d46dca5f76.png" xmlns="">0gZcXMkjmVEOMmfuDB_ZcZQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

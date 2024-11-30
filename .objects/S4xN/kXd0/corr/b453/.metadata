@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Welcome to ACME System …",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "b453pfgqv0eQbn0O9Togsg",
+  "Reference": "_kELrHrFyEyfYm07Z5YWIA/b453pfgqv0eQbn0O9Togsg",
+  "ParentRef": "_kELrHrFyEyfYm07Z5YWIA/corrgCXX0k2fuA-4nB5tAA",
+  "Created": "2024-11-14T19:59:34.8283105Z",
+  "Updated": "2024-11-14T19:59:34.8283105Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

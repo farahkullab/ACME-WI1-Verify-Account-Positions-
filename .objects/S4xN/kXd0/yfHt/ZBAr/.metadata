@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Client Accounts",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "ZBArKO_X2U2xHm7zgAMVsg",
+  "Reference": "_kELrHrFyEyfYm07Z5YWIA/ZBArKO_X2U2xHm7zgAMVsg",
+  "ParentRef": "_kELrHrFyEyfYm07Z5YWIA/yfHt97DTu0uv_AnmiKLkdQ",
+  "Created": "2024-11-15T19:38:00.0141318Z",
+  "Updated": "2024-11-15T19:38:00.0141318Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

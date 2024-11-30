@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JV2NKsxceUqfRnLHjRaWCA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com" CVScreenId="98579909-f7cc-4778-80c8-ee40fb9364cb" DesignTimeRectangle="246, 642, 285, 64" DesignTimeScaleFactor="1.4249999523162842" ElementType="Button" FullSelectorArgument="&lt;webctrl href='https://acme-test.uipath.com/work-items' tag='A' /&gt;&lt;webctrl tag='BUTTON' /&gt;" FuzzyAccuracy="0.9" Guid="cd6a289a-50b1-40f7-984f-a8078835a120" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5d495645ca642c250f97063033f2a630.png" xmlns="">0E94ULx05okGUUalq2oHL-A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
